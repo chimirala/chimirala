@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m @chimirala
@@ -7,3 +7,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif
+https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
